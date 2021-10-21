@@ -6,9 +6,19 @@
   Encurtador de URL
 </h3>
 
-<p align="center">Nesse projeto é executado a construção de um encurtador de URL com Node.Js com integração ao MongoDB</p>
+<p align="center">Neste projeto é desenvolvido encurtador de url a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.</p>
 
 ## 🚀 Tecnologias
 
+- 💡 TypeScript
 - ⚡ NodeJs 
 - 💾 MongoDB
+
+## ✋🏻 Pré-requisitos
+
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/atlas/database)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
